@@ -8,10 +8,9 @@ Use python script (in Jupyter Lab IDE) to extract specific text from a collectio
 
 Name | Purpose
 ------------ | -------------
-Description_text.xls | SIM dataset provided by contributor (showcased LinkedIn project) from Amazon seller program portal
 Email_asins_extract.ipynb| Jupyter notebook containing the extraction code (old version)
 asin_exctrator.ipynb | Jupyter notebook containing the extraction code (version 2.0)
 script_result.png | Image showing script result when latest notebook is run (truncated for fitting)
 
 ## Tools required
-MS Excel workbook: Description_text.xls, Python 3 kernel notebook (recommended: Jupyter Labs)
+Python 3 kernel notebook (recommended: Jupyter Labs)
